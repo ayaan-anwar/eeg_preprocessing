@@ -1,5 +1,5 @@
 # eeg_preprocessing
-
+# DASPS Dataset
 ## Steps
 1. Butter Bandpass Filter
 2. ICA (for artefact removal)
